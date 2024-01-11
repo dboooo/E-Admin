@@ -2,7 +2,7 @@
   <div class="flex-y-center justify-between px-25 <sm:px-8 absolute top-0 right-0 left-0 h-20">
     <div class="flex-y-center">
       <Icon name="local-icon-logo" size="24" color="var(--el-color-primary)" />
-      <div class="text-5 ml-4">Admin<span class="color-primary ml-1">PRO</span></div>
+      <div class="text-5 ml-4"><span class="color-primary ml-1">E-Admin</span></div>
     </div>
     <div class="flex-y-center">
       <el-switch

@@ -1,5 +1,5 @@
 import { ConfigEnv, defineConfig, loadEnv } from 'vite';
-import { setupVitePlugins } from './build';
+import { setupVitePlugins } from './build'; // 抽离出插件
 import pkg from './package.json';
 import { resolve } from 'path';
 import dayjs from 'dayjs';
