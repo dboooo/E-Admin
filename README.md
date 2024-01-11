@@ -1,6 +1,6 @@
 ## 简介
 
-E-component 是一个基于 Vue3、Vite、TypeScript、Unocss、Element plus、Pinia、VueUse 的后台模版，它使用了最新的前端技术栈，内置主题配置、动态菜单、权限校验等，基于 mock 实现的动态数据展示，可以当作开箱的模板，也可用于学习参考。
+E-Admin 是一个基于 Vue3、Vite、TypeScript、Unocss、Element plus、Pinia、VueUse 的后台模版，它使用了最新的前端技术栈，内置主题配置、动态菜单、权限校验等，基于 mock 实现的动态数据展示。
 
 ### 特性
 
@@ -24,7 +24,7 @@ pnpm install
 - 运行
 
 ```bash
-pnpm dev
+npx vite
 ```
 
 - 打包
